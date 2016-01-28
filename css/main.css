@@ -1,0 +1,124 @@
+body {
+    font-family: Helvetica, cursive;
+    color: #AC8359;
+}
+
+.header {
+    background-color: orange;
+    border-radius: 20px;
+    color: white;
+}
+
+.title-photo{
+    border-radius: 50%;
+    margin-top: 7px;
+}
+
+hr {
+    height: 1px;
+    color: #ed1d61;
+    background: #ed1d61;
+    font-size: 0;
+    border: 0;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 18px;
+}
+
+span {
+    color: red;
+}
+
+.p-text{
+    text-align: left;
+}
+
+.code{
+    font-family: Courier;
+    font-size: 18px;
+    color: black;
+}
+
+.stage-2 {
+    color: blue;
+}
+
+.stage-3 {
+    color: red;
+}
+
+.stage-5 {
+    color: teal;
+}
+
+.stage-4 {
+    color: black;
+}
+
+.links {
+    font-size: 18px;
+}
+
+.ol-text {
+    text-align: left;
+    font-size: 17px;
+}
+
+.ul-text {
+    text-align: left;
+    font-size: 17px;
+}
+
+
+.footer {
+    background-color: orange;
+    border-radius: 18px;
+    color: white;
+}
+
+.teal {
+    font-size: 20px;
+    color: teal;
+}
+
+.concept-title {
+    text-align: center;
+    font-size: 18px;
+    color: teal;
+}
+
+.part-concept-title {
+    text-align: left;
+    font-size: 20px;
+    color: teal;
+}
+
+.value {
+    text-align: center;
+}
+
+label {
+    font-size: 18px;
+    color: teal;
+    background-color: orange;
+}
+
+input {
+    font-size: 20px;
+    background-color: orange;
+    color: teal;
+    border-radius: 20px;
+}

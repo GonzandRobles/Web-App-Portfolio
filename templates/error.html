@@ -1,0 +1,19 @@
+{% extends "index.html" %}
+
+<html>
+
+{% block content %}
+
+<div>
+	<span>Please, add a comment.</span>
+	<button = onclick="goBack()">Return to comments</button>
+	<script>
+	function goBack() {
+    	window.history.back();
+	}
+	</script>
+</div>
+
+{% endblock %}
+
+</html>
